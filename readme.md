@@ -5,6 +5,7 @@ Here are the languages I mainly code in:
 - Python (doing less and less)
 - Java
 - Kotlin
+- can do c++
 
 I also mainly do:
 - [Geometry Dash](https://store.steampowered.com/app/322170/Geometry_Dash/) mods/related stuff
